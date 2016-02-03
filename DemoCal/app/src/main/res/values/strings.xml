@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoCal</string>
+    <string name="title_activity_main">计算器小程序</string>
+</resources>
